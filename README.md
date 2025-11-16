@@ -1,7 +1,5 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Peking University
-- 🌱 I’m currently learning computer vision and computer graphics
-
+- I’m currently a research scientist at Anuttacon
 
